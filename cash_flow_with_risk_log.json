@@ -1,0 +1,611 @@
+{
+  "simulation_weeks": 10,
+  "weekly_logs": [
+    {
+      "week": 1,
+      "days": {
+        "Monday": {
+          "sales": 337,
+          "early_deposit": 0,
+          "night_deposit": 337.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 301,
+          "early_deposit": 0,
+          "night_deposit": 301.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 298,
+          "early_deposit": 0,
+          "night_deposit": 298.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 356,
+          "early_deposit": 0,
+          "night_deposit": 356.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 438,
+          "early_deposit": 48.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 693,
+          "early_deposit": 303.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 374,
+          "early_deposit": 0,
+          "night_deposit": 374.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2797.0,
+      "week_total_early": 351.0
+    },
+    {
+      "week": 2,
+      "days": {
+        "Monday": {
+          "sales": 309,
+          "early_deposit": 0,
+          "night_deposit": 309.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 302,
+          "early_deposit": 0,
+          "night_deposit": 302.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 282,
+          "early_deposit": 0,
+          "night_deposit": 282.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 315,
+          "early_deposit": 0,
+          "night_deposit": 315.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 565,
+          "early_deposit": 175.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 726,
+          "early_deposit": 336.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 343,
+          "early_deposit": 0,
+          "night_deposit": 343.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2842.0,
+      "week_total_early": 511.0
+    },
+    {
+      "week": 3,
+      "days": {
+        "Monday": {
+          "sales": 258,
+          "early_deposit": 0,
+          "night_deposit": 258.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 295,
+          "early_deposit": 0,
+          "night_deposit": 295.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 293,
+          "early_deposit": 0,
+          "night_deposit": 293.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 367,
+          "early_deposit": 0,
+          "night_deposit": 367.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 431,
+          "early_deposit": 41.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 770,
+          "early_deposit": 380.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 353,
+          "early_deposit": 0,
+          "night_deposit": 353.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2767.0,
+      "week_total_early": 421.0
+    },
+    {
+      "week": 4,
+      "days": {
+        "Monday": {
+          "sales": 279,
+          "early_deposit": 0,
+          "night_deposit": 279.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 288,
+          "early_deposit": 0,
+          "night_deposit": 288.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 259,
+          "early_deposit": 0,
+          "night_deposit": 259.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 410,
+          "early_deposit": 20.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 478,
+          "early_deposit": 88.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 743,
+          "early_deposit": 353.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 371,
+          "early_deposit": 0,
+          "night_deposit": 371.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2828.0,
+      "week_total_early": 461.0
+    },
+    {
+      "week": 5,
+      "days": {
+        "Monday": {
+          "sales": 263,
+          "early_deposit": 0,
+          "night_deposit": 263.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 265,
+          "early_deposit": 0,
+          "night_deposit": 265.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 316,
+          "early_deposit": 0,
+          "night_deposit": 316.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 310,
+          "early_deposit": 0,
+          "night_deposit": 310.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 455,
+          "early_deposit": 65.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 834,
+          "early_deposit": 444.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 399,
+          "early_deposit": 9.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2842.0,
+      "week_total_early": 518.0
+    },
+    {
+      "week": 6,
+      "days": {
+        "Monday": {
+          "sales": 309,
+          "early_deposit": 0,
+          "night_deposit": 309.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 258,
+          "early_deposit": 0,
+          "night_deposit": 258.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 260,
+          "early_deposit": 0,
+          "night_deposit": 260.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 340,
+          "early_deposit": 0,
+          "night_deposit": 340.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 457,
+          "early_deposit": 67.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 723,
+          "early_deposit": 333.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 409,
+          "early_deposit": 19.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2756.0,
+      "week_total_early": 419.0
+    },
+    {
+      "week": 7,
+      "days": {
+        "Monday": {
+          "sales": 326,
+          "early_deposit": 0,
+          "night_deposit": 326.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 289,
+          "early_deposit": 0,
+          "night_deposit": 289.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 269,
+          "early_deposit": 0,
+          "night_deposit": 269.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 329,
+          "early_deposit": 0,
+          "night_deposit": 329.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 558,
+          "early_deposit": 168.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 665,
+          "early_deposit": 275.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 407,
+          "early_deposit": 17.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2843.0,
+      "week_total_early": 460.0
+    },
+    {
+      "week": 8,
+      "days": {
+        "Monday": {
+          "sales": 264,
+          "early_deposit": 0,
+          "night_deposit": 264.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 340,
+          "early_deposit": 0,
+          "night_deposit": 340.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 329,
+          "early_deposit": 0,
+          "night_deposit": 329.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 387,
+          "early_deposit": 0,
+          "night_deposit": 387.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 433,
+          "early_deposit": 43.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 718,
+          "early_deposit": 328.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 445,
+          "early_deposit": 55.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2916.0,
+      "week_total_early": 426.0
+    },
+    {
+      "week": 9,
+      "days": {
+        "Monday": {
+          "sales": 257,
+          "early_deposit": 0,
+          "night_deposit": 257.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 338,
+          "early_deposit": 0,
+          "night_deposit": 338.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 305,
+          "early_deposit": 0,
+          "night_deposit": 305.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 339,
+          "early_deposit": 0,
+          "night_deposit": 339.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 545,
+          "early_deposit": 155.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 717,
+          "early_deposit": 327.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 446,
+          "early_deposit": 56.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2947.0,
+      "week_total_early": 538.0
+    },
+    {
+      "week": 10,
+      "days": {
+        "Monday": {
+          "sales": 259,
+          "early_deposit": 0,
+          "night_deposit": 259.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Tuesday": {
+          "sales": 265,
+          "early_deposit": 0,
+          "night_deposit": 265.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Wednesday": {
+          "sales": 333,
+          "early_deposit": 0,
+          "night_deposit": 333.0,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Thursday": {
+          "sales": 394,
+          "early_deposit": 4.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Friday": {
+          "sales": 495,
+          "early_deposit": 105.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        },
+        "Saturday": {
+          "sales": 826,
+          "early_deposit": 436.0,
+          "night_deposit": 390,
+          "risk_flag": true,
+          "robbery_risk": true
+        },
+        "Sunday": {
+          "sales": 405,
+          "early_deposit": 15.0,
+          "night_deposit": 390,
+          "risk_flag": false,
+          "robbery_risk": false
+        }
+      },
+      "week_total_deposited": 2977.0,
+      "week_total_early": 560.0
+    }
+  ],
+  "totals": {
+    "total_deposited": 28515.0,
+    "total_early": 4665.0,
+    "robbery_days": [
+      {
+        "week": 1,
+        "day": "Saturday"
+      },
+      {
+        "week": 2,
+        "day": "Saturday"
+      },
+      {
+        "week": 3,
+        "day": "Saturday"
+      },
+      {
+        "week": 4,
+        "day": "Saturday"
+      },
+      {
+        "week": 5,
+        "day": "Saturday"
+      },
+      {
+        "week": 6,
+        "day": "Saturday"
+      },
+      {
+        "week": 7,
+        "day": "Saturday"
+      },
+      {
+        "week": 8,
+        "day": "Saturday"
+      },
+      {
+        "week": 9,
+        "day": "Saturday"
+      },
+      {
+        "week": 10,
+        "day": "Saturday"
+      }
+    ]
+  }
+}
